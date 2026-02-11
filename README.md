@@ -46,3 +46,24 @@ In these views, you can see how the app handles searching by name and filtering 
 
 #### 2. Filtering by Region (e.g., Africa)
 <img src="./src/screenshots/results1.png" width="800px" alt="Search Result Screenshot">
+
+---
+## 🛠️ How to Run Locally
+
+Follow these steps to get the project up and running on your local machine:
+
+1. **Clone the repository:**
+   ```bash
+   git clone [https://github.com/Zahranazari607/my-countries-app.git](https://github.com/Zahranazari607/my-countries-app.git)
+
+2. **Navigate to the project folder:**
+Bash
+cd my-countries-app
+
+3. **Install dependencies:**
+Bash
+npm install
+
+4. **Start the development server:**
+Bash
+npm run dev
