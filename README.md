@@ -60,9 +60,9 @@ Follow these steps to get the project up and running on your local machine:
 cd my-countries-app
 
 3. **Install dependencies:**
-*Bash
-*npm install
+**Bash
+**npm install
 
 4. **Start the development server:**
-*Bash
-*npm run dev
+**Bash
+**npm run dev
