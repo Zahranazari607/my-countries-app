@@ -42,7 +42,7 @@ Shows the initial load with countries sorted by population.
 In these views, you can see how the app handles searching by name and filtering by region.
 
 #### 1. Searching by Country Name
-<img src="./src/screenshots/results1.png" width="800px" alt="Filter Result Screenshot">
+<img src="./src/screenshots/results2.png" width="800px" alt="Filter Result Screenshot">
 
 #### 2. Filtering by Region (e.g., Africa)
-<img src="./src/screenshots/results2.png" width="800px" alt="Search Result Screenshot">
+<img src="./src/screenshots/results1.png" width="800px" alt="Search Result Screenshot">
