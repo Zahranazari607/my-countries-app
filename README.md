@@ -50,12 +50,15 @@ In these views, you can see how the app handles searching by name and filtering 
 ---
 ## 🛠️ How to Run Locally
 
-Follow these steps to get the project up and running on your local machine:
+```bash
+# 1. Clone the repository
+git clone [https://github.com/Zahranazari607/my-countries-app.git](https://github.com/Zahranazari607/my-countries-app.git)
 
-1. **Clone the repository:**
-   ```bash
-   git clone [https://github.com/Zahranazari607/my-countries-app.git](https://github.com/Zahranazari607/my-countries-app.git)
+# 2. Navigate to the folder
+cd my-countries-app
 
-2. **Navigate to the project folder:**
-   cd my-countries-app
+# 3. Install dependencies
+npm install
 
+# 4. Start the project
+npm run dev
